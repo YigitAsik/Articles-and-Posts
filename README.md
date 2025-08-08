@@ -7,7 +7,7 @@ I wanted to use this repository to save my blogs, posts etc. in one place.
 * [Partial Regression/Added Variable Plots](https://yigitasik.github.io/posts/Interpretablog%20-%20Partial%20Regression%20Plots/)
     Directly visualizing what the coefficient tells us [and orthogonalization].
 * [Interpretablog - Partial Dependence](https://yigitasik.github.io/posts/Interpretablog%20-%20Partial%20Dependence/)
-    Partial dependence plots [PDPs] and individual conditional expectations [ICEs]
+    Partial dependence plots (PDPs) and individual conditional expectations (ICEs)
 * [Interpretablog - Fire & Forget](https://yigitasik.github.io/posts/Interpretablog%20-%20Fire%20and%20Forget/)
     Interpreting coefficients the right way.
 * [How To Structure Your Shiny App](https://yigitasik.github.io/posts/How%20to%20Structure%20A%20Shiny%20App/)
@@ -43,7 +43,15 @@ I wanted to use this repository to save my blogs, posts etc. in one place.
 * [EuroLog #1: Cedi Osman's Performance Against Efes during Playoff](https://thereadstep.substack.com/p/eurolog-1-cedis-performance-against)
 * [Navigating Through My EuroLeague Shiny App](https://yigitasik.github.io/posts/Navigating%20Through%20Euroleague%20Shiny%20App/)
 * [How Basketball Analytics May Have An Effect On Your Analytics Job](https://yigitasik.github.io/posts/Basketball%20Analytics%20and%20Daily%20Job/)
+* [Possession Importance Model](https://www.linkedin.com/feed/update/urn:li:activity:7253761033452802049/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7253761033452802049%29)
+    Possession importance model which quantifies the swing that can happen in probability as a result of a possession. The higher it is, higher the importance.
+* [Open-Source Contribution](https://www.linkedin.com/feed/update/urn:li:activity:7240657895556603905/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7240657895556603905%29)
+    Added a function to Euroleague API that tracks on-court players, which makes on/off analyses possible.
+* [Win Probability After Each On-Court Action](https://www.linkedin.com/feed/update/urn:li:activity:7150543080499191808/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7150543080499191808%29)
+* [New Metric: Shot Proficiency](https://www.linkedin.com/feed/update/urn:li:activity:7152001570434379777/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7152001570434379777%29)
+    *Shot proficiency metric* which quantifies ability to make "tough" shots, while taking shot volume into account.
 
-### General
+
+### Other
 
 * [How to Automatize Your Tasks](https://yigitasik.github.io/posts/How%20to%20Automatize%20Your%20Notebooks/)
